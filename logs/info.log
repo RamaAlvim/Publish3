@@ -1,0 +1,41 @@
+Info: CustomCategory:categoria1: 623 mini seconds publishing element
+Info: : 1739 mini-second(s) publishing element DeliveryProcess:ProcessoTeste[Pluginfinal\deliveryprocesses\ProcessoTeste_30F44E0A.html]
+Info: DeliveryProcess:ProcessoTeste: 1740 mini seconds publishing element
+Info: DeliveryProcess:ProcessoTeste: 362 mini seconds publishing process specific layout data
+Info: Activity:DEFINIR MISSÃO DE AVALIAÇÃO: 265 mini seconds publishing element
+Info: Activity:TESTAR E AVALIAR: 500 mini seconds publishing element
+Info: TaskDescriptor:identificar_motivadores_de_teste: 263 mini seconds publishing element
+Info: TaskDescriptor:definir_necessidades_de_avaliao_e_rastreabilidade: 81 mini seconds publishing element
+Info: TaskDescriptor:implementar_testes: 57 mini seconds publishing element
+Info: TaskDescriptor:identificar_ideias_de_teste: 83 mini seconds publishing element
+Info: TaskDescriptor:determinar_os_resultados_dos_testes: 82 mini seconds publishing element
+Info: RoleDescriptor:analista_de_teste: 197 mini seconds publishing element
+Info: RoleDescriptor:testador: 46 mini seconds publishing element
+Info: WorkProductDescriptor:arquitetura: 343 mini seconds publishing element
+Info: WorkProductDescriptor:diretrizes_de_teste_catlogo_de_ideias_de_teste: 65 mini seconds publishing element
+Info: WorkProductDescriptor:lista_de_problemas: 53 mini seconds publishing element
+Info: WorkProductDescriptor:modelo_de_caso_de_uso: 42 mini seconds publishing element
+Info: WorkProductDescriptor:plano_de_desenvolvimento_de_software: 49 mini seconds publishing element
+Info: WorkProductDescriptor:plano_de_testes: 66 mini seconds publishing element
+Info: WorkProductDescriptor:requerimento_de_mudanas: 67 mini seconds publishing element
+Info: RoleDescriptor:analista_de_teste: 71 mini seconds publishing element
+Info: WorkProductDescriptor:diretrizes_de_teste_catlogo_de_ideias_de_teste: 53 mini seconds publishing element
+Info: WorkProductDescriptor:plano_de_desenvolvimento_de_software: 44 mini seconds publishing element
+Info: WorkProductDescriptor:plano_de_testes: 65 mini seconds publishing element
+Info: Task:identificar_motivadores_de_teste: 182 mini seconds publishing element
+Info: Task:definir_necessidades_de_avaliao_e_rastreabilidade: 46 mini seconds publishing element
+Info: Task:implementar_testes: 40 mini seconds publishing element
+Info: Task:identificar_ideias_de_teste: 31 mini seconds publishing element
+Info: Task:determinar_os_resultados_dos_testes: 37 mini seconds publishing element
+Info: Role:analista_de_teste: 917 mini seconds publishing element
+Info: Role:testador: 59 mini seconds publishing element
+Info: Artifact:arquitetura: 428 mini seconds publishing element
+Info: : 1340 mini-second(s) publishing element Artifact:diretrizes_de_teste_catlogo_de_ideias_de_teste[Pluginfinal\workproducts\diretrizes_de_teste_catlogo_de_ideias_de_teste_257DF01.html]
+Info: Artifact:diretrizes_de_teste_catlogo_de_ideias_de_teste: 1341 mini seconds publishing element
+Info: Artifact:lista_de_problemas: 160 mini seconds publishing element
+Info: Artifact:modelo_de_caso_de_uso: 200 mini seconds publishing element
+Info: Artifact:plano_de_desenvolvimento_de_software: 725 mini seconds publishing element
+Info: : 1796 mini-second(s) publishing element Artifact:plano_de_testes[Pluginfinal\workproducts\plano_de_testes_6E8EB982.html]
+Info: Artifact:plano_de_testes: 1797 mini seconds publishing element
+Info: Artifact:requerimento_de_mudanas: 225 mini seconds publishing element
+Info: : Publishing time: 0 minutes 13 seconds
